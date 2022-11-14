@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Benedikt
+- 🔭 I’m interested in machine learning and computer vision.
+- 🌱 I’m currently doing a PhD at Imperial College London.
+- 🖥️ Check out my website [benediktkolbeinsson.is](https://benediktkolbeinsson.is)
+- 📫 You can contact me on twitter [@benediktkol](https://twitter.com/benediktkol)
